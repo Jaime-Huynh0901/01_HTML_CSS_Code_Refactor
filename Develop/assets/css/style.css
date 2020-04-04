@@ -36,6 +36,11 @@ header h1 .seo{
 }
 
 /* Navigation style */
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
 .navigation {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,15 +53,8 @@ header h1 .seo{
     list-style-type: none;
 }
 
-header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-/* Hero image style */
 .hero-image {
     clear: both;
-    overflow: auto;
     max-height: 100%;
     max-width: 100%;
 }
@@ -132,14 +130,13 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* 20px */
+
 footer h3 {
     font-size: 20px;
 }
 
 .footer-heart{
     color: red;
-
 }
 
 
@@ -166,3 +163,5 @@ footer h3 {
         }
     }
 } */
+
+
