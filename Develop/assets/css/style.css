@@ -139,10 +139,11 @@ footer h3 {
 
 .footer-heart{
     color: red;
-    
+
 }
 
-/* 
+
+/* Change all the px to em.
 @media screen and (max-width: 800px) {
     .main-content {
         width: 100%;
