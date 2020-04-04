@@ -60,6 +60,7 @@ li {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    /* background: url("../images/digital-marketing-meeting.jpg") center / cover; */
 }
 
 /* Main content style */
